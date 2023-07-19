@@ -1,2 +1,2 @@
 # BOJ-Solve
-BOJ problem solving
+Baekjoon Online Judge problem solving
